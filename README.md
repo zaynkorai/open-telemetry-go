@@ -1,0 +1,2 @@
+## Go Network Telemetry Agent
+This project is a small, cross-platform telemetry agent written in Go. It is designed to collect system and network statistics and report them to a central server. This project serves as a showcase of a lightweight, enterprise grade agent.
